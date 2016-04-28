@@ -12,6 +12,11 @@ body,
     display: table-cell;
 }
 
+.carousel {
+    height: 500px;
+    margin-bottom: 60px;
+}
+
 #home {
     color: white;
     font-family: 'Inknut Antiqua', serif;
